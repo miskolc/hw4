@@ -1,0 +1,52 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1352065612.5676465:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%36bb1c47764c2f822075abd6c58c154eI"logical_path;
+FI"application.js;
+TI"pathname;
+FI"0$root/app/assets/javascripts/application.js;
+FI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-11-04T15:24:45+02:00;
+FI"	body;
+FI"î// This is a manifest file that'll be compiled into including all the files listed below.
+// Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
+// be included in the compiled file accessible from http://example.com/assets/application.js
+// It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
+// the compiled file.
+//
+;
+;
+FI"asset_paths;
+F[I"h/home/dragos/.rvm/gems/ruby-1.9.3-p194/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js;
+FI"l/home/dragos/.rvm/gems/ruby-1.9.3-p194/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.js;
+FI"0$root/app/assets/javascripts/application.js;
+FI"dependency_paths;
+F[	{I"	path;
+FI"0$root/app/assets/javascripts/application.js;
+FI"
+mtime;
+FIu:	Timeç(Äõì‹b:@_zoneI"EET;
+T:offseti I"hexdigest;
+F"%549ddbd6cc7eb5cac3ef01164f35f695{I"	path;
+FI"!$root/app/assets/javascripts;
+FI"
+mtime;
+FIu;ç(Äõì‹b;I"EET;
+T;i I"hexdigest;
+F"%d4f88971c1988e00732efc3b47e84f9d{I"	path;
+FI"h/home/dragos/.rvm/gems/ruby-1.9.3-p194/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js;
+FI"
+mtime;
+FIu;&Ä~–;I"	EEST;
+T;i0*I"hexdigest;
+F"%683679b346b30943f8589b640966202a{I"	path;
+FI"l/home/dragos/.rvm/gems/ruby-1.9.3-p194/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.js;
+FI"
+mtime;
+FIu;&Ä~–;I"	EEST;
+T;i0*I"hexdigest;
+F"%2caafa0c2617f9985c1a0b07ebaefadfI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5
